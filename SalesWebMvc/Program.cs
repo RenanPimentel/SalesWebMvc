@@ -8,7 +8,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-// cd E:\Citrica\CSharp\Udemy\18-web-system(using asp net core mvc and entity framework)\SalesWebMvc
 // dotnet watch run
 
 namespace SalesWebMvc
