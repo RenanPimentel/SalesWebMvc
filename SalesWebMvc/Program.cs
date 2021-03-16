@@ -8,8 +8,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-// dotnet watch run
-
 namespace SalesWebMvc
 {
     public class Program
@@ -21,7 +19,8 @@ namespace SalesWebMvc
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder => {
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
                     webBuilder.UseStartup<Startup>();
                 });
     }
