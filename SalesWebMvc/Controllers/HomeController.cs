@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Logging;
 
 using SalesWebMvc.Models;
+using SalesWebMvc.Models.ViewModels;
 
 using System;
 using System.Collections.Generic;
