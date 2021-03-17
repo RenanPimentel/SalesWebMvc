@@ -49,6 +49,7 @@ namespace SalesWebMvc
         {
             if (env.IsDevelopment())
             {
+                seedingService.Seed();
                 app.UseDeveloperExceptionPage();
                 seedingService.Seed();
             }
