@@ -1,0 +1,59 @@
+[33mcommit 1d0947a17d7d1aa90a56fdb9ee30a4b39cde7629[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Wed Mar 17 15:48:18 2021 -0300
+
+    Fixed bug in previous version
+
+[33mcommit 3af6226839fb1e94c79b24a1704ea00ac5d4f78d[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Wed Mar 17 08:32:50 2021 -0300
+
+    Added other entities and second migration
+
+[33mcommit 6a2727eaf506baf1afffb796bf49772233133204[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Tue Mar 16 21:56:39 2021 -0300
+
+    Changed theme
+
+[33mcommit 7c86f47b881777f134b270500d2a1acef3dd59d4[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Tue Mar 16 21:03:25 2021 -0300
+
+    Implemented MySQL adaptation and first migration
+
+[33mcommit e1872b68cde9095797ed80d6ab859da4638554ae[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Tue Mar 16 20:37:05 2021 -0300
+
+    changed to net core 2.1
+
+[33mcommit 8d3aa0d67c828d34b670042c775dfcaffca9090b[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Tue Mar 16 19:37:55 2021 -0300
+
+    CRUD scaffolding
+
+[33mcommit f593b860c1d8d3fb9afec147b7fc0fe1ca167cfd[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Tue Mar 16 12:54:59 2021 -0300
+
+    Deleted Department view and controller
+
+[33mcommit e1419f0a671eab519ea79a0e69881e1a9f16657b[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Tue Mar 16 09:09:41 2021 -0300
+
+    Added first mvc 'Department'
+
+[33mcommit 8ab570388a99b460b25b72237869502bedd10a0e[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Mon Mar 15 19:10:03 2021 -0300
+
+    testing razor pages and controllers
+
+[33mcommit 1a5b015e99ef01a4cd02a5dc358b75bb72014881[m
+Author: RenanPimentel <renansinhorini12@gmail.com>
+Date:   Sun Mar 14 22:19:19 2021 -0300
+
+    Initial commit
