@@ -48,7 +48,7 @@ namespace SalesWebMvc.Data
             var r10 = new SalesRecord(10, new DateTime(2021, 02, 7), 9000.0, SaleStatus.Billed, s6);
             var r11 = new SalesRecord(11, new DateTime(2021, 02, 13), 6000.0, SaleStatus.Billed, s2);
             var r12 = new SalesRecord(12, new DateTime(2021, 02, 25), 7000.0, SaleStatus.Pending, s3);
-            var r13 = new SalesRecord(13, new DateTime(2021, 02, 29), 10000.0, SaleStatus.Billed, s4);
+            var r13 = new SalesRecord(13, new DateTime(2021, 02, 27), 10000.0, SaleStatus.Billed, s4);
             var r14 = new SalesRecord(14, new DateTime(2021, 02, 4), 3000.0, SaleStatus.Billed, s5);
             var r15 = new SalesRecord(15, new DateTime(2021, 02, 12), 4000.0, SaleStatus.Billed, s1);
             var r16 = new SalesRecord(16, new DateTime(2021, 3, 5), 2000.0, SaleStatus.Billed, s4);
