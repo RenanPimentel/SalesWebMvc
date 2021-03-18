@@ -17,7 +17,7 @@ namespace SalesWebMvc.Services
             _context = context;
         }
 
-        public List<Seller> FIndAll()
+        public List<Seller> FindAll()
         {
             return _context.Seller.ToList();
         }
@@ -25,6 +25,18 @@ namespace SalesWebMvc.Services
         public void Insert(Seller seller)
         {
             _context.Add(seller);
+            _context.SaveChanges();
+        }
+
+        public Seller FindById(int id)
+        {
+            return FindAll().FirstOrDefault(s => s.Id == id);
+        }
+
+        public void Remove(int id)
+        {
+            var seller = _context.Seller.Find(id);
+            _context.Seller.Remove(seller);
             _context.SaveChanges();
         }
     }
